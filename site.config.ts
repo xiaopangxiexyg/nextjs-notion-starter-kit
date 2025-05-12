@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Yingge's Blog',
+  name: 'Yingge\'s Blog',
   domain: 'https://www.notion.so/Yingge-s-Blog-1f1d21f0e45b80b7b583c34bae21f6f4',
   author: 'xiaopangxiexyg',
 
